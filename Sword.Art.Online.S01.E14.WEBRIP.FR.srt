@@ -1,0 +1,878 @@
+1
+00:00:24,480 --> 00:00:26,020
+Tous à l'assaut !
+
+2
+00:02:41,740 --> 00:02:43,490
+Combien de pertes ?
+
+3
+00:02:50,170 --> 00:02:51,670
+Quatorze sont morts.
+
+4
+00:02:52,840 --> 00:02:53,920
+C'est pas vrai...
+
+5
+00:02:56,960 --> 00:02:59,590
+ll y a encore vingt-cinq paliers...
+
+6
+00:02:59,970 --> 00:03:04,050
+Est-on vraiment capables
+d'atteindre le sommet ?
+
+7
+00:03:28,370 --> 00:03:29,290
+Kirito ?
+
+8
+00:03:42,260 --> 00:03:43,390
+Kirito, que fais-tu ?
+
+9
+00:03:53,190 --> 00:03:54,860
+Un objet indestructible ?
+
+10
+00:03:55,690 --> 00:03:58,070
+Qu'est-ce que ça veut dire,
+Commandeur ?
+
+11
+00:03:59,150 --> 00:04:03,780
+Quoi qu'il arrive, sa barre de vie
+ne descend jamais dans le jaune.
+
+12
+00:04:04,110 --> 00:04:06,070
+ll est protégé par le système.
+
+13
+00:04:08,040 --> 00:04:10,450
+Je n'arrête pas de me poser
+des questions
+
+14
+00:04:10,660 --> 00:04:12,330
+depuis que je suis dans ce monde.
+
+15
+00:04:13,460 --> 00:04:17,170
+D'où ce type peut-il bien
+nous observer en ce moment ?
+
+16
+00:04:17,340 --> 00:04:19,840
+D'où fait-il les réglages de ce monde ?
+
+17
+00:04:20,630 --> 00:04:24,130
+Mais j'avais oublié une simple vérité.
+
+18
+00:04:24,510 --> 00:04:26,430
+Une chose que tous les enfants savent.
+
+19
+00:04:27,010 --> 00:04:31,730
+Rien n'est plus ennuyeux que de regarder
+les autres jouer à un RPG sans rien faire.
+
+20
+00:04:33,560 --> 00:04:35,600
+N'est-ce pas, Kayaba Akihiko ?
+
+21
+00:04:39,440 --> 00:04:43,280
+À titre indicatif, peux-tu me dire
+comment tu t'en es rendu compte ?
+
+22
+00:04:43,820 --> 00:04:47,320
+C'est lors du duel que j'ai eu
+un doute pour la première fois.
+
+23
+00:04:48,450 --> 00:04:52,870
+À la dernière seconde seulement,
+vous avez été bien trop rapide.
+
+24
+00:04:53,370 --> 00:04:54,580
+Je m'en doutais.
+
+25
+00:04:55,000 --> 00:04:57,500
+Pour moi aussi, ce fut un
+incident regrettable.
+
+26
+00:04:58,090 --> 00:05:00,090
+Tu as pris le dessus sur moi
+
+27
+00:05:00,300 --> 00:05:03,380
+et j'ai été contraint
+d'utiliser l'assistance du système.
+
+28
+00:05:08,930 --> 00:05:11,390
+C'est vrai, je suis bien Kayaba Akihiko.
+
+29
+00:05:11,560 --> 00:05:12,810
+Mais ce n'est pas tout,
+
+30
+00:05:12,980 --> 00:05:15,140
+je suis également
+le dernier boss de ce jeu,
+
+31
+00:05:15,350 --> 00:05:17,400
+qui devait vous attendre
+au dernier palier.
+
+32
+00:05:21,400 --> 00:05:23,110
+Ce n'est pas de très bon goût.
+
+33
+00:05:23,530 --> 00:05:26,950
+Le meilleur des joueurs
+devient brusquement le pire des boss.
+
+34
+00:05:27,490 --> 00:05:29,370
+C'est un scénario intéressant, pas vrai ?
+
+35
+00:05:30,910 --> 00:05:34,910
+Je m'attendais à ce que ce soit toi
+qui te tiennes devant moi à la fin.
+
+36
+00:05:35,540 --> 00:05:38,080
+La compétence d'escrime double
+
+37
+00:05:38,290 --> 00:05:41,210
+est donnée au plus réactif
+d'entre tous les joueurs.
+
+38
+00:05:41,710 --> 00:05:45,920
+ll aurait dû tenir le rôle
+du brave faisant face au Diable.
+
+39
+00:05:46,510 --> 00:05:50,220
+Mais tu as montré une force
+dépassant toutes mes prévisions.
+
+40
+00:05:50,890 --> 00:05:53,520
+Je suppose que ce type d'imprévu
+
+41
+00:05:53,720 --> 00:05:56,690
+fait partie des charmes
+des RPG en réseau.
+
+42
+00:05:58,230 --> 00:05:59,980
+Et notre loyauté...
+
+43
+00:06:00,150 --> 00:06:01,110
+Nos espoirs...
+
+44
+00:06:01,270 --> 00:06:02,940
+Vous êtes... vous êtes...
+
+45
+00:06:03,110 --> 00:06:04,280
+... un enfoiré !
+
+46
+00:06:11,160 --> 00:06:12,030
+La paralysie...
+
+47
+00:06:15,200 --> 00:06:15,950
+Kirito !
+
+48
+00:06:23,420 --> 00:06:24,800
+Qu'avez-vous l'intention de faire ?
+
+49
+00:06:25,380 --> 00:06:27,970
+Nous tuer tous ici et passer
+ça sous silence ?
+
+50
+00:06:28,130 --> 00:06:29,260
+Mais non.
+
+51
+00:06:29,430 --> 00:06:31,510
+Je ne ferai pas quelque
+chose d'aussi absurde.
+
+52
+00:06:32,470 --> 00:06:33,970
+Bon, je n'ai pas le choix,
+
+53
+00:06:34,520 --> 00:06:36,020
+je vais attendre votre venue
+
+54
+00:06:36,180 --> 00:06:39,980
+au Sanctuaire de la Jade Pourpre
+du dernier palier.
+
+55
+00:06:40,400 --> 00:06:42,770
+Abandonner en cours
+la Confrérie des Chevaliers
+
+56
+00:06:42,940 --> 00:06:45,360
+et les joueurs du Groupe
+des Conquérants que j'ai formés,
+
+57
+00:06:45,530 --> 00:06:47,820
+ce n'est pas ce que je souhaite.
+
+58
+00:06:48,240 --> 00:06:51,820
+Ceci dit, je suis convaincu que
+vous êtes assez forts pour y parvenir.
+
+59
+00:06:52,490 --> 00:06:54,240
+Mais avant cela...
+
+60
+00:06:55,540 --> 00:06:56,500
+Kirito,
+
+61
+00:06:56,660 --> 00:07:00,670
+je dois te récompenser pour avoir
+deviné ma véritable identité.
+
+62
+00:07:01,170 --> 00:07:02,380
+Je te laisse une chance.
+
+63
+00:07:02,540 --> 00:07:03,380
+Une chance ?
+
+64
+00:07:03,840 --> 00:07:07,170
+Oui, celle de pouvoir te battre
+seul contre moi ici même.
+
+65
+00:07:07,760 --> 00:07:10,590
+Bien sûr, je vais
+annuler mon immortalité.
+
+66
+00:07:10,760 --> 00:07:13,220
+Si tu gagnes ce combat,
+le jeu se terminera,
+
+67
+00:07:13,390 --> 00:07:16,810
+et tous les joueurs pourront
+se déconnecter de ce monde.
+
+68
+00:07:17,100 --> 00:07:18,020
+Alors ?
+
+69
+00:07:19,640 --> 00:07:21,020
+Ne fais pas ça, Kirito !
+
+70
+00:07:21,190 --> 00:07:23,360
+Tu... tu dois refuser !
+
+71
+00:07:53,840 --> 00:07:54,850
+Ne dis pas de bêtises.
+
+72
+00:07:56,680 --> 00:07:58,890
+D'accord, réglons ça maintenant.
+
+73
+00:07:59,220 --> 00:08:00,180
+Kirito !
+
+74
+00:08:00,770 --> 00:08:04,060
+Excuse-moi, mais
+je ne peux pas me dérober.
+
+75
+00:08:05,610 --> 00:08:08,280
+Tu n'as tout de même pas
+l'intention de mourir ?
+
+76
+00:08:08,440 --> 00:08:09,280
+Non.
+
+77
+00:08:09,650 --> 00:08:10,860
+Je vais gagner.
+
+78
+00:08:11,320 --> 00:08:13,200
+Je vais gagner et en finir avec ce monde.
+
+79
+00:08:13,360 --> 00:08:14,280
+Entendu...
+
+80
+00:08:15,030 --> 00:08:17,370
+J'ai confiance en toi, Kirito.
+
+81
+00:08:29,710 --> 00:08:30,760
+Kirito !
+
+82
+00:08:33,590 --> 00:08:34,430
+Agil...
+
+83
+00:08:36,090 --> 00:08:39,680
+Merci pour le soutien que tu as apporté
+aux classes d'épéistes.
+
+84
+00:08:40,680 --> 00:08:41,850
+Je suis au courant,
+
+85
+00:08:42,020 --> 00:08:44,140
+tu reverses
+presque tous tes gains
+
+86
+00:08:44,350 --> 00:08:47,810
+à la formation
+des joueurs de paliers intermédiaires.
+
+87
+00:08:49,940 --> 00:08:50,820
+Klein...
+
+88
+00:08:52,740 --> 00:08:54,700
+Ce jour-là, excuse-moi...
+
+89
+00:08:56,070 --> 00:08:57,740
+... de t'avoir laissé tomber.
+
+90
+00:08:59,200 --> 00:09:00,740
+Kirito, enfoiré !
+
+91
+00:09:01,410 --> 00:09:02,750
+Ne t'excuse pas !
+
+92
+00:09:02,910 --> 00:09:04,830
+C'est pas le moment de s'excuser !
+
+93
+00:09:05,460 --> 00:09:06,710
+Je te pardonnerai pas !
+
+94
+00:09:07,000 --> 00:09:12,090
+Pas tant que tu ne m'auras pas offert
+au moins un repas dans le monde réel !
+
+95
+00:09:12,260 --> 00:09:13,420
+D'accord,
+
+96
+00:09:14,130 --> 00:09:15,340
+on verra dans le monde réel.
+
+97
+00:09:23,100 --> 00:09:25,690
+Désolé, mais j'ai une faveur
+à vous demander.
+
+98
+00:09:26,230 --> 00:09:27,230
+Quoi donc ?
+
+99
+00:09:27,400 --> 00:09:29,440
+Je n'ai pas l'intention
+de perdre facilement,
+
+100
+00:09:30,110 --> 00:09:31,900
+mais si jamais je meurs,
+
+101
+00:09:32,280 --> 00:09:36,360
+au moins pour un moment, j'aimerais que
+tu empêches Asuna de se donner la mort.
+
+102
+00:09:38,660 --> 00:09:39,740
+Très bien.
+
+103
+00:09:39,910 --> 00:09:41,740
+Kirito, arrête !
+
+104
+00:09:41,910 --> 00:09:45,210
+Ne fais pas ça, je t'en prie, arrête !
+
+105
+00:09:53,880 --> 00:09:55,010
+Kirito !
+
+106
+00:09:56,470 --> 00:09:57,970
+Ce n'est pas un duel.
+
+107
+00:09:58,720 --> 00:10:00,550
+C'est juste un combat à mort.
+
+108
+00:10:01,180 --> 00:10:04,390
+C'est ça...
+Cet homme, je vais...
+
+109
+00:10:04,560 --> 00:10:05,430
+... le tuer !
+
+110
+00:10:15,280 --> 00:10:17,780
+C'est lui qui a conçu l'escrime double !
+
+111
+00:10:18,030 --> 00:10:21,830
+Les enchaînements enregistrés dans
+le système, il peut tous les prévoir !
+
+112
+00:10:22,370 --> 00:10:24,040
+Ne compte pas
+sur les compétences d'épée,
+
+113
+00:10:24,240 --> 00:10:26,910
+tu ne le vaincras qu'avec
+tes propres forces !
+
+114
+00:10:27,960 --> 00:10:28,870
+Encore !
+
+115
+00:10:29,670 --> 00:10:30,790
+Encore plus vite !
+
+116
+00:11:02,780 --> 00:11:03,950
+Désolé, Asuna...
+
+117
+00:11:04,870 --> 00:11:06,750
+... mais toi au moins, vis...
+
+118
+00:11:17,380 --> 00:11:19,800
+Adieu, Kirito.
+
+119
+00:11:44,780 --> 00:11:45,660
+C'est pas vrai...
+
+120
+00:11:46,240 --> 00:11:47,200
+Asuna...
+
+121
+00:11:47,540 --> 00:11:50,120
+Qu'as... qu'as-tu fait ?
+
+122
+00:11:55,250 --> 00:11:56,300
+Pardonne-moi...
+
+123
+00:11:58,670 --> 00:11:59,840
+Au revoir.
+
+124
+00:12:20,280 --> 00:12:21,820
+Je suis surpris.
+
+125
+00:12:22,400 --> 00:12:26,120
+En principe, il est impossible de
+se débarrasser de la paralysie soi-même.
+
+126
+00:12:27,120 --> 00:12:28,990
+J'en déduis que cela peut se produire.
+
+127
+00:13:20,880 --> 00:13:23,300
+C'est la fin...
+
+128
+00:13:27,340 --> 00:13:29,720
+J'ai confiance en toi, Kirito.
+
+129
+00:13:45,780 --> 00:13:46,740
+Pas encore...
+
+130
+00:13:54,620 --> 00:13:55,790
+Pas encore !
+
+131
+00:14:19,520 --> 00:14:20,860
+C'est bien...
+
+132
+00:14:21,270 --> 00:14:22,110
+... comme ça ?
+
+133
+00:14:56,730 --> 00:14:59,440
+Le 11 Novembre à 14h55,
+
+134
+00:15:00,440 --> 00:15:02,310
+le jeu a été terminé.
+
+135
+00:15:03,020 --> 00:15:04,860
+Le jeu a été terminé...
+
+136
+00:15:21,500 --> 00:15:22,710
+Où suis-je...
+
+137
+00:15:27,460 --> 00:15:30,510
+PHASE FlNALE
+EN COURS D'EXÉCUTION
+
+138
+00:15:34,050 --> 00:15:35,060
+Kirito...
+
+139
+00:15:51,110 --> 00:15:53,870
+Désolé, moi aussi je suis mort...
+
+140
+00:15:55,160 --> 00:15:55,990
+Idiot...
+
+141
+00:16:12,220 --> 00:16:14,600
+Où est-on ici ?
+
+142
+00:16:29,230 --> 00:16:30,820
+Quelle vue magnifique.
+
+143
+00:16:40,620 --> 00:16:42,580
+Kayaba Akihiko...
+
+144
+00:16:42,750 --> 00:16:46,130
+En ce moment, l'intégralité
+des données est effacée
+
+145
+00:16:46,290 --> 00:16:49,170
+de la mémoire principale
+de l'ordinateur central de SAO
+
+146
+00:16:49,340 --> 00:16:51,970
+qui se trouve au cinquième sous-sol
+du siège d'Argus.
+
+147
+00:16:53,260 --> 00:16:57,850
+Dans dix minutes, tout aura
+complètement disparu dans ce monde.
+
+148
+00:16:58,890 --> 00:17:01,680
+Qu'est-il advenu de ceux
+qui sont restés dedans ?
+
+149
+00:17:02,980 --> 00:17:04,350
+Ne vous inquiétez pas.
+
+150
+00:17:05,020 --> 00:17:05,810
+Tout à l'heure,
+
+151
+00:17:05,980 --> 00:17:11,900
+les 6147 joueurs survivants ont pu
+se déconnecter sans problème.
+
+152
+00:17:13,490 --> 00:17:14,910
+Et ceux qui sont morts ?
+
+153
+00:17:15,450 --> 00:17:18,030
+Que sont devenus les 4 000 joueurs
+qui sont morts ?
+
+154
+00:17:19,120 --> 00:17:20,910
+lls ne reviendront plus à eux.
+
+155
+00:17:21,620 --> 00:17:25,210
+Quel que soit le monde, les morts
+disparaissent toujours à jamais.
+
+156
+00:17:28,090 --> 00:17:29,250
+Pourquoi...
+
+157
+00:17:29,420 --> 00:17:31,960
+Pourquoi avez-vous fait ça ?
+
+158
+00:17:32,130 --> 00:17:33,670
+Pourquoi...
+
+159
+00:17:35,180 --> 00:17:37,300
+J'avais oublié pendant un long moment.
+
+160
+00:17:38,680 --> 00:17:40,060
+Je me demande pourquoi.
+
+161
+00:17:40,890 --> 00:17:43,850
+Quand j'ai commencé à développer
+le système d'environnement full dive,
+
+162
+00:17:44,020 --> 00:17:47,980
+enfin, même bien avant cela,
+j'ai voulu cette forteresse...
+
+163
+00:17:48,440 --> 00:17:52,150
+Un monde transcendant les limites
+et les lois du monde réel.
+
+164
+00:17:52,320 --> 00:17:55,030
+Je vivais seulement
+dans le désir de le construire.
+
+165
+00:17:56,570 --> 00:18:02,330
+Et puis, j'ai eu la vision d'une chose
+dépassant les lois de mon monde.
+
+166
+00:18:05,250 --> 00:18:11,000
+Quel âge avais-je lorsque j'ai été hanté
+par ce rêve de château d'acier flottant ?
+
+167
+00:18:12,800 --> 00:18:14,840
+Je voulais quitter la surface de la Terre,
+
+168
+00:18:15,010 --> 00:18:16,430
+pour rejoindre ce château.
+
+169
+00:18:17,180 --> 00:18:21,930
+Pendant longtemps, très longtemps,
+ce fut mon seul désir.
+
+170
+00:18:25,100 --> 00:18:26,560
+Tu vois, Kirito,
+
+171
+00:18:27,730 --> 00:18:29,150
+j'y crois encore.
+
+172
+00:18:30,150 --> 00:18:34,530
+Je crois que dans un autre monde,
+quelque part, ce château existe vraiment.
+
+173
+00:18:36,820 --> 00:18:39,450
+Je l'espère pour vous...
+
+174
+00:18:46,210 --> 00:18:47,660
+J'ai oublié de vous le dire.
+
+175
+00:18:48,250 --> 00:18:52,380
+Pour avoir fini le jeu,
+félicitations, Kirito, Asuna.
+
+176
+00:18:55,920 --> 00:18:58,880
+Bien, je vais devoir y aller.
+
+177
+00:19:18,570 --> 00:19:19,910
+C'est l'heure des adieux.
+
+178
+00:19:20,820 --> 00:19:23,240
+Non, pas du tout.
+
+179
+00:19:24,030 --> 00:19:26,500
+Nous n'allons plus faire qu'un
+et disparaître.
+
+180
+00:19:27,330 --> 00:19:29,160
+Nous serons alors ensemble
+pour toujours.
+
+181
+00:19:30,210 --> 00:19:32,460
+Avant, dis-moi comment tu t'appelles.
+
+182
+00:19:33,130 --> 00:19:35,050
+Dis-moi ton véritable nom.
+
+183
+00:19:38,220 --> 00:19:40,840
+Kirigaya...
+Kirigaya Kazuto.
+
+184
+00:19:41,180 --> 00:19:43,640
+J'ai dû avoir seize ans le mois dernier.
+
+185
+00:19:43,970 --> 00:19:46,270
+Kirigaya Kazuto...
+
+186
+00:19:47,640 --> 00:19:49,310
+Alors tu es plus jeune que moi.
+
+187
+00:19:50,310 --> 00:19:52,650
+Moi, c'est Yûki Asuna,
+
+188
+00:19:53,230 --> 00:19:54,610
+j'ai dix-sept ans.
+
+189
+00:19:54,940 --> 00:19:59,320
+Yûki Asuna...
+
+190
+00:20:06,790 --> 00:20:09,120
+Désolé...
+Désolé...
+
+191
+00:20:09,290 --> 00:20:14,130
+Je t'avais pourtant promis
+de te ramener dans le monde réel...
+
+192
+00:20:14,670 --> 00:20:17,710
+Je...
+J'ai...
+
+193
+00:20:21,010 --> 00:20:21,970
+Non.
+
+194
+00:20:23,090 --> 00:20:24,390
+Ça ne fait rien.
+
+195
+00:20:24,930 --> 00:20:26,970
+J'ai été heureuse.
+
+196
+00:20:27,390 --> 00:20:30,230
+Heureuse de t'avoir rencontré,
+d'avoir vécu avec toi.
+
+197
+00:20:31,100 --> 00:20:33,600
+C'est la chose la plus heureuse
+qui me soit arrivé.
+
+198
+00:20:34,350 --> 00:20:35,360
+Merci...
+
+199
+00:20:35,940 --> 00:20:37,400
+Je t'aime...
+
+200
+00:20:57,040 --> 00:21:00,130
+Je...
+Je t'aime.
+
+201
+00:22:03,320 --> 00:22:07,530
+A... su... na...
+
+202
+00:22:14,250 --> 00:22:16,540
+Asuna...
