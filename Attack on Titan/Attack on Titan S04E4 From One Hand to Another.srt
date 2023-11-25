@@ -1,0 +1,1603 @@
+1
+00:00:01,210 --> 00:00:02,230
+Falco ?
+
+2
+00:00:03,240 --> 00:00:05,000
+Où est-ce que tu cours, si tard ?
+
+3
+00:00:05,620 --> 00:00:09,540
+J’ai oublié quelque chose au Q.G.,
+je retourne le chercher.
+
+4
+00:00:10,090 --> 00:00:11,240
+Sur ce, j’y vais !
+
+5
+00:00:17,080 --> 00:00:20,170
+Falco, j’aurais un service
+à te demander.
+
+6
+00:00:20,420 --> 00:00:22,730
+Quel genre de service, M. Kruger ?
+
+7
+00:00:23,720 --> 00:00:25,830
+J’aimerais envoyer une lettre,
+
+8
+00:00:26,420 --> 00:00:29,960
+mais elle sera inspectée
+si je la poste depuis le camp.
+
+9
+00:00:30,130 --> 00:00:31,430
+Oui, c’est certain.
+
+10
+00:00:31,590 --> 00:00:34,590
+Les autorités sauraient
+que je simule l’amnésie.
+
+11
+00:00:34,740 --> 00:00:37,760
+Pourrais-tu l’envoyer
+depuis l’extérieur ?
+
+12
+00:00:37,890 --> 00:00:38,960
+Oui, pas de souci.
+
+13
+00:00:39,420 --> 00:00:40,850
+C’est pour votre famille ?
+
+14
+00:00:41,390 --> 00:00:42,410
+Oui.
+
+15
+00:00:42,730 --> 00:00:46,330
+Pour leur faire savoir
+que je suis ici et que je vais bien.
+
+16
+00:02:21,990 --> 00:02:27,000
+DE MAIN EN MAIN
+
+17
+00:02:32,000 --> 00:02:33,880
+Pourquoi tout ce remue-ménage ?
+
+18
+00:02:34,100 --> 00:02:37,010
+Les Teyber au grand complet
+sont ici !
+
+19
+00:02:37,180 --> 00:02:38,540
+Comment ?
+
+20
+00:02:42,930 --> 00:02:44,920
+Ce ne sont pas nos soldats,
+
+21
+00:02:45,120 --> 00:02:47,760
+c’est la garde d’élite
+du clan Teyber…
+
+22
+00:02:48,940 --> 00:02:49,970
+Entrez.
+
+23
+00:02:51,530 --> 00:02:53,270
+Navré pour la visite impromptue.
+
+24
+00:02:53,690 --> 00:02:56,650
+Je suis Willy,
+à la tête de la famille Teyber.
+
+25
+00:02:57,290 --> 00:03:00,280
+Capitaine Theo Magath.
+
+26
+00:03:00,650 --> 00:03:03,930
+C’est un honneur
+de vous rencontrer, M. Teyber.
+
+27
+00:03:04,240 --> 00:03:06,260
+De même, capitaine Magath.
+
+28
+00:03:06,580 --> 00:03:10,760
+Je vous présente également
+les autres membres de la famille.
+
+29
+00:03:11,000 --> 00:03:13,300
+Ça suffit, tenez-vous tranquilles !
+
+30
+00:03:17,170 --> 00:03:20,580
+Vous qui dirigez l’unité des guerriers
+depuis sa création,
+
+31
+00:03:20,780 --> 00:03:25,180
+avez-vous deviné lequel d’entre nous
+détient le titan marteau ?
+
+32
+00:03:25,430 --> 00:03:27,800
+Non, je n’en ai pas la moindre idée.
+
+33
+00:03:28,100 --> 00:03:31,410
+Je ne saurais pas même dire
+s’il est vraiment ici.
+
+34
+00:03:32,850 --> 00:03:35,440
+Vous êtes aussi méfiant
+qu’on le raconte.
+
+35
+00:03:36,160 --> 00:03:38,070
+Pourtant, il est bien là.
+
+36
+00:03:38,580 --> 00:03:41,820
+L’un d’entre nous
+possède le titan marteau.
+
+37
+00:03:48,120 --> 00:03:51,210
+Nous sommes venus
+admirer la statue de Helos.
+
+38
+00:03:51,710 --> 00:03:56,040
+Le simple mortel qui, voici 100 ans,
+a terrassé le démon de la terre.
+
+39
+00:03:56,210 --> 00:03:59,140
+Le sauveur de notre monde,
+la fierté du peuple mahr,
+
+40
+00:03:59,280 --> 00:04:00,940
+Helos le héros…
+
+41
+00:04:01,840 --> 00:04:03,470
+Quelle magnificence…
+
+42
+00:04:03,930 --> 00:04:06,920
+Bravoure, majesté, pureté absolue.
+
+43
+00:04:07,390 --> 00:04:10,470
+La parfaite représentation
+de l’âme mahr.
+
+44
+00:04:10,600 --> 00:04:12,340
+Parfaite, effectivement.
+
+45
+00:04:12,690 --> 00:04:14,980
+D’autant plus
+que l’intérieur est creux.
+
+46
+00:04:16,520 --> 00:04:19,200
+Vous êtes impitoyable, capitaine.
+
+47
+00:04:19,530 --> 00:04:23,740
+On dit que vous plaidez
+pour le rétablissement de la conscription.
+
+48
+00:04:23,900 --> 00:04:28,520
+Les Mahr ne connaissent de la guerre
+que ce qu’en rapporte la presse.
+
+49
+00:04:28,870 --> 00:04:32,750
+Les conquêtes se réduisent
+à de commodes articles vite lus.
+
+50
+00:04:33,250 --> 00:04:34,820
+D’autant plus que ce sont
+
+51
+00:04:34,960 --> 00:04:39,340
+les dociles descendants des démons
+qui essuient les tirs ennemis.
+
+52
+00:04:40,090 --> 00:04:44,930
+Mais quand bien même les balles
+siffleraient aux oreilles de nos citoyens,
+
+53
+00:04:45,130 --> 00:04:49,800
+le pays serait incapable d’interrompre
+sa course vers l’autodestruction.
+
+54
+00:04:53,480 --> 00:04:57,510
+Si quelqu’un tire les ficelles
+dans l’ombre, j’aimerais lui dire
+
+55
+00:04:57,650 --> 00:04:59,650
+qu’il est déjà trop tard.
+
+56
+00:05:01,280 --> 00:05:03,990
+Vous êtes vraiment implacable,
+capitaine.
+
+57
+00:05:04,190 --> 00:05:05,650
+Vous me mettez dos au mur.
+
+58
+00:05:06,160 --> 00:05:07,220
+Vous avez vu juste,
+
+59
+00:05:07,340 --> 00:05:10,160
+ce sont les Teyber
+qui contrôlent le pays.
+
+60
+00:05:10,990 --> 00:05:14,370
+Mais notez que Mahr
+a choisi la voie du militarisme
+
+61
+00:05:14,540 --> 00:05:16,670
+de sa propre initiative.
+
+62
+00:05:17,080 --> 00:05:19,420
+Nous lui avons offert liberté
+
+63
+00:05:19,560 --> 00:05:21,920
+et puissance
+en expiation de nos fautes,
+
+64
+00:05:22,300 --> 00:05:26,110
+et résultat, Eldiens comme Mahr
+sombrent dans les ténèbres.
+
+65
+00:05:26,260 --> 00:05:28,750
+Le clan Teyber
+en porte la responsabilité.
+
+66
+00:05:29,300 --> 00:05:34,180
+J’ai donc décidé de révéler la vérité
+au monde entier lors de la cérémonie.
+
+67
+00:05:34,770 --> 00:05:37,530
+Je suis bel et bien venu
+admirer la statue,
+
+68
+00:05:37,690 --> 00:05:40,910
+car Mahr va une fois de plus
+avoir besoin d’un héros.
+
+69
+00:05:41,610 --> 00:05:46,450
+Theo Magath, acceptez-vous de serrer
+à nouveau la main que je vous tends ?
+
+70
+00:05:57,160 --> 00:05:58,620
+Salut, Pokko !
+
+71
+00:06:00,670 --> 00:06:02,880
+Mais à quoi tu joues, Peak ?
+
+72
+00:06:03,250 --> 00:06:07,380
+Je suis plus à l’aise comme ça.
+Désolée, je t’ai fait peur ?
+
+73
+00:06:08,380 --> 00:06:10,870
+Marche debout,
+comme tout le monde !
+
+74
+00:06:11,930 --> 00:06:13,950
+Les titans arriveront par le sud.
+
+75
+00:06:14,300 --> 00:06:17,600
+Les défenses seront donc
+plus vulnérables au nord,
+
+76
+00:06:17,740 --> 00:06:19,370
+dans la zone montagneuse.
+
+77
+00:06:19,600 --> 00:06:21,900
+C’est là que nous devrions frapper ?
+
+78
+00:06:22,230 --> 00:06:23,930
+C’est une possibilité.
+
+79
+00:06:24,110 --> 00:06:27,650
+Mais les seuls quais
+de taille à accueillir nos croiseurs
+
+80
+00:06:27,820 --> 00:06:29,500
+restent ceux du sud.
+
+81
+00:06:29,950 --> 00:06:31,820
+Pour notre avantage matériel…
+
+82
+00:06:31,950 --> 00:06:33,560
+Mieux vaut accoster au sud ?
+
+83
+00:06:33,870 --> 00:06:37,380
+Hélas, c’est là qu’ont disparu
+nos navires éclaireurs.
+
+84
+00:06:37,560 --> 00:06:39,700
+L’ennemi surveillera ces quais
+
+85
+00:06:40,030 --> 00:06:42,170
+et pourrait même
+les avoir déjà détruits.
+
+86
+00:06:42,540 --> 00:06:44,850
+Où voulez-vous en venir, alors ?
+
+87
+00:06:45,170 --> 00:06:48,800
+Je ne fais que vous communiquer
+les informations que je…
+
+88
+00:06:48,970 --> 00:06:50,550
+Bon, ça suffit comme ça.
+
+89
+00:06:50,800 --> 00:06:54,050
+C’était une erreur
+de faire participer un Eldien.
+
+90
+00:06:58,730 --> 00:07:01,650
+L’opération Paradis
+a l’air en bonne voie,
+
+91
+00:07:01,980 --> 00:07:05,090
+vu les fins tacticiens
+que sont nos supérieurs…
+
+92
+00:07:05,680 --> 00:07:08,540
+J’ai hâte de voir
+le plan qu’ils vont nous pondre.
+
+93
+00:07:08,920 --> 00:07:13,550
+Ils pourraient tout miser
+sur quatre gamins, par exemple.
+
+94
+00:07:20,190 --> 00:07:21,600
+Il l’a dépassée !
+
+95
+00:07:22,250 --> 00:07:23,870
+Falco a battu Gaby !
+
+96
+00:07:28,880 --> 00:07:31,320
+Sacrée ovation
+pour une unique victoire.
+
+97
+00:07:31,580 --> 00:07:34,390
+Ils ont la béatitude
+des ignorants, eux…
+
+98
+00:07:34,700 --> 00:07:37,890
+Falco aura beau faire
+grimper ses notes,
+
+99
+00:07:38,090 --> 00:07:40,250
+c’est trop tard,
+Gaby est indétrônable.
+
+100
+00:07:41,390 --> 00:07:43,650
+Vous avez vu ce sprint final ?
+
+101
+00:07:43,920 --> 00:07:46,520
+Il vous arrive quoi, les jeunes ?
+
+102
+00:07:46,820 --> 00:07:49,140
+Falco a battu Gaby pour la 1re fois !
+
+103
+00:07:49,280 --> 00:07:51,070
+Ah ouais ? En notes ?
+
+104
+00:07:51,240 --> 00:07:53,530
+Non, juste à la course !
+
+105
+00:07:53,700 --> 00:07:55,780
+C’est un exploit historique !
+
+106
+00:07:55,940 --> 00:07:59,200
+Bon, arrêtez,
+ça devient gênant, là…
+
+107
+00:07:59,370 --> 00:08:03,420
+Impressionnant, dis-moi !
+Tu vas rafler le cuirassé, gamin !
+
+108
+00:08:03,630 --> 00:08:05,710
+Ma tête !
+
+109
+00:08:05,870 --> 00:08:08,940
+Arrête de croire
+que tu peux me concurrencer !
+
+110
+00:08:09,210 --> 00:08:12,380
+Moi, mes faits d’armes
+ont servi la patrie !
+
+111
+00:08:13,890 --> 00:08:15,100
+C’est vrai.
+
+112
+00:08:16,090 --> 00:08:19,740
+Mais l’état-major
+n’a rien annoncé concernant le cuirassé.
+
+113
+00:08:20,100 --> 00:08:23,390
+En attendant ce jour,
+je continuerai à tout donner.
+
+114
+00:08:25,520 --> 00:08:29,070
+Dites donc,
+mais c’est qu’il s’y croirait…
+
+115
+00:08:29,430 --> 00:08:32,220
+Ton frère va hériter du bestial,
+
+116
+00:08:32,370 --> 00:08:34,530
+vous êtes assurés
+d’avoir la citoyenneté !
+
+117
+00:08:34,680 --> 00:08:36,980
+Pourquoi tu t’acharnes à ce point ?
+
+118
+00:08:42,160 --> 00:08:43,710
+Pour toi, pardi !
+
+119
+00:08:44,920 --> 00:08:45,820
+Mince alors…
+
+120
+00:08:45,950 --> 00:08:47,830
+Ça y est, il l’a dit !
+
+121
+00:08:53,050 --> 00:08:56,590
+Pour moi ? Alors que tu me fous
+des bâtons dans les roues ?
+
+122
+00:08:56,760 --> 00:08:58,600
+C’est quoi la logique, là ?
+
+123
+00:08:59,950 --> 00:09:02,100
+Le message est pas passé…
+
+124
+00:09:02,310 --> 00:09:05,520
+Hein ? Quel message ?
+C’est quoi son problème ?
+
+125
+00:09:07,230 --> 00:09:10,610
+Ah, nos petits guerriers
+sont de retour !
+
+126
+00:09:10,770 --> 00:09:14,110
+Gaby !
+On m’a tout raconté, tu sais !
+
+127
+00:09:14,280 --> 00:09:18,660
+T’es notre sauveuse à tous, Gaby !
+
+128
+00:09:18,820 --> 00:09:21,280
+Sauf que moi, c’est Sophia.
+
+129
+00:09:22,410 --> 00:09:26,710
+Déjà imbibé en pleine journée,
+à harceler les jeunes filles ?
+
+130
+00:09:26,870 --> 00:09:27,810
+Vieil ivrogne !
+
+131
+00:09:27,940 --> 00:09:30,090
+La ferme, vieille peau !
+
+132
+00:09:30,240 --> 00:09:32,570
+Je peux pas féliciter l’héroïne ?
+
+133
+00:09:32,700 --> 00:09:35,920
+Venant de toi,
+ça va lui porter la poisse !
+
+134
+00:09:36,130 --> 00:09:38,930
+Allez, à la niche, bobonne t’attend !
+
+135
+00:09:39,070 --> 00:09:40,120
+Crénom !
+
+136
+00:09:40,610 --> 00:09:43,590
+Tenez, les enfants, prenez ça.
+
+137
+00:09:44,060 --> 00:09:48,090
+Mangez bien, pour devenir aussi grands
+que le vice-capitaine Braun !
+
+138
+00:09:48,690 --> 00:09:50,290
+Merci beaucoup !
+
+139
+00:09:55,810 --> 00:09:59,360
+Ils vont vraiment
+déclarer la guerre ici, dans le camp ?
+
+140
+00:09:59,660 --> 00:10:01,450
+On se croirait au spectacle.
+
+141
+00:10:02,780 --> 00:10:05,330
+L’idée, c’est de réunir
+tout le gratin mondial
+
+142
+00:10:05,460 --> 00:10:07,400
+pendant cette fête
+
+143
+00:10:07,540 --> 00:10:09,710
+afin de créer une grande alliance.
+
+144
+00:10:10,960 --> 00:10:12,200
+Si ça pouvait réussir,
+
+145
+00:10:13,250 --> 00:10:16,670
+ça résoudrait
+tous les problèmes de Mahr d’un coup !
+
+146
+00:10:17,130 --> 00:10:18,980
+Tu prévois déjà l’échec, toi ?
+
+147
+00:10:19,240 --> 00:10:20,720
+Pourquoi, tu y crois ?
+
+148
+00:10:21,350 --> 00:10:25,290
+L’alliance inclurait le Moyen-Orient,
+qu’on combattait il y a 1 mois.
+
+149
+00:10:26,310 --> 00:10:30,370
+Je viens d’un camp à l’étranger,
+je sais à quoi m’attendre.
+
+150
+00:10:30,650 --> 00:10:32,030
+On en a bavé, tu sais.
+
+151
+00:10:33,270 --> 00:10:36,860
+L’hostilité envers les Eldiens
+est pire à l’étranger.
+
+152
+00:10:37,210 --> 00:10:40,820
+Eh ben, raison de plus
+pour pas rester passifs, non ?
+
+153
+00:10:41,420 --> 00:10:45,660
+Ils ont dû choisir notre camp
+pour plaider en faveur des Eldiens
+
+154
+00:10:45,860 --> 00:10:48,500
+et montrer
+qu’on n’est pas des démons.
+
+155
+00:10:48,910 --> 00:10:50,120
+On fait ça comment ?
+
+156
+00:10:50,470 --> 00:10:51,250
+Souris !
+
+157
+00:10:51,670 --> 00:10:55,160
+Je comprends que trop bien
+ton désir de revanche,
+
+158
+00:10:55,340 --> 00:10:57,490
+mais ton petit air arrangera rien.
+
+159
+00:10:57,670 --> 00:11:00,880
+Et toi, Sophia,
+arrête de faire ta poseuse !
+
+160
+00:11:01,180 --> 00:11:03,260
+Je suis au naturel, là…
+
+161
+00:11:03,680 --> 00:11:06,640
+Et toi alors, tu vas changer quoi ?
+
+162
+00:11:08,090 --> 00:11:10,710
+Moi, je suis parfaite comme je suis !
+
+163
+00:11:11,230 --> 00:11:13,560
+Aussi mignonne qu’intelligente.
+
+164
+00:11:13,730 --> 00:11:15,670
+Je vais charmer tout le gratin
+
+165
+00:11:15,800 --> 00:11:18,650
+et cimenter ma position
+en tête de liste !
+
+166
+00:11:19,030 --> 00:11:20,670
+Moi, je vois un vrai démon, là.
+
+167
+00:11:21,720 --> 00:11:25,780
+Au fait, prenez encore parti pour Falco
+et vous le regretterez !
+
+168
+00:11:25,910 --> 00:11:27,540
+T’es un démon pur jus !
+
+169
+00:11:29,230 --> 00:11:30,760
+C’est le capitaine Magath.
+
+170
+00:11:31,620 --> 00:11:32,720
+Tenez.
+
+171
+00:11:38,380 --> 00:11:41,550
+Des « travaux de démolition »
+s’imposent, alors…
+
+172
+00:11:41,880 --> 00:11:44,550
+Oui, l’état de « délabrement »
+est critique.
+
+173
+00:11:48,470 --> 00:11:52,310
+Mes félicitations, maréchal.
+L’armée est désormais vôtre.
+
+174
+00:11:52,640 --> 00:11:55,480
+Non, l’armée appartient à la nation.
+
+175
+00:11:55,730 --> 00:11:59,690
+Nation dont vous êtes
+la plus haute autorité, M. Teyber.
+
+176
+00:12:01,280 --> 00:12:03,200
+Pas tout à fait, non.
+
+177
+00:12:03,530 --> 00:12:06,200
+Je ne fais que tenir
+la barre du navire.
+
+178
+00:12:06,740 --> 00:12:10,650
+Et je comprends pourquoi
+aucun de mes ancêtres ne s’y est essayé.
+
+179
+00:12:11,870 --> 00:12:13,310
+La charge est écrasante…
+
+180
+00:12:14,580 --> 00:12:17,370
+Je brûle de m’en dessaisir
+à cet instant même,
+
+181
+00:12:17,570 --> 00:12:20,360
+mais l’ère qui s’en vient
+exige que je l’assume.
+
+182
+00:12:21,550 --> 00:12:23,640
+Tout cela par simple coup du sort.
+
+183
+00:12:24,050 --> 00:12:27,850
+Par le hasard qui a frappé
+alors que mon tour était venu.
+
+184
+00:12:28,760 --> 00:12:33,530
+La « maison » tombe peut-être en ruines,
+mais la « charpente » est récupérable.
+
+185
+00:12:34,520 --> 00:12:36,320
+Seulement,
+d’après ses grincements,
+
+186
+00:12:36,440 --> 00:12:39,840
+il y a apparemment des rats
+dans les murs.
+
+187
+00:12:41,490 --> 00:12:43,110
+Bravo, bien joué, Falco.
+
+188
+00:12:43,540 --> 00:12:45,730
+C’est grâce à vous, M. Kruger !
+
+189
+00:12:46,160 --> 00:12:47,140
+Pour être honnête,
+
+190
+00:12:47,260 --> 00:12:50,440
+je pense qu’il est trop tard
+pour surclasser Gaby.
+
+191
+00:12:50,950 --> 00:12:54,030
+Mais je sens que je peux
+quand même aller de l’avant.
+
+192
+00:12:54,540 --> 00:12:55,250
+Tant mieux.
+
+193
+00:12:56,420 --> 00:12:58,850
+Par contre,
+c’est à moi de te remercier,
+
+194
+00:12:59,500 --> 00:13:02,620
+pour toutes les fois
+où tu délivres mon courrier.
+
+195
+00:13:03,470 --> 00:13:04,880
+Tu m’as beaucoup aidé.
+
+196
+00:13:05,970 --> 00:13:07,010
+Ce n’était rien.
+
+197
+00:13:08,680 --> 00:13:11,740
+C’est votre famille
+qui vous a envoyé ça ?
+
+198
+00:13:12,220 --> 00:13:15,380
+Oui, pour tromper l’ennui
+du quotidien en hôpital.
+
+199
+00:13:16,060 --> 00:13:18,350
+Dans mon état, c’est pas évident.
+
+200
+00:13:19,400 --> 00:13:21,390
+Mais je dois aller de l’avant aussi.
+
+201
+00:13:22,030 --> 00:13:25,720
+Une fois la grande fête terminée,
+je rentrerai auprès des miens.
+
+202
+00:13:27,320 --> 00:13:28,690
+Je vois.
+
+203
+00:13:30,450 --> 00:13:31,910
+Voilà un docteur.
+
+204
+00:13:32,490 --> 00:13:33,860
+Je vous laisse !
+
+205
+00:13:34,070 --> 00:13:34,940
+D’accord.
+
+206
+00:13:37,330 --> 00:13:39,660
+Puis-je m’asseoir à côté de vous ?
+
+207
+00:13:39,960 --> 00:13:41,290
+Oui, je vous en prie.
+
+208
+00:13:42,550 --> 00:13:44,490
+Merci, c’est bien aimable.
+
+209
+00:13:47,510 --> 00:13:50,340
+Je suis le docteur Jäger,
+j’exerce dans le camp.
+
+210
+00:13:50,600 --> 00:13:53,560
+Je passe prendre le thé ici
+de temps en temps.
+
+211
+00:13:54,420 --> 00:13:56,950
+Enchanté, moi, c’est Kruger.
+
+212
+00:13:57,770 --> 00:13:59,850
+C’est un plaisir, M. Kruger.
+
+213
+00:14:00,150 --> 00:14:03,560
+Vous semblez bien vous entendre
+avec le garçon blond.
+
+214
+00:14:03,740 --> 00:14:04,440
+Oui.
+
+215
+00:14:04,610 --> 00:14:05,610
+Je vois.
+
+216
+00:14:05,760 --> 00:14:08,660
+Lui et moi devons avoir
+des choses en commun,
+
+217
+00:14:08,860 --> 00:14:13,450
+puisque je me suis assis ici
+en quête d’un peu de conversation.
+
+218
+00:14:14,350 --> 00:14:16,030
+L’oncle de ce petit
+
+219
+00:14:16,180 --> 00:14:18,960
+était un pilier
+de la Résistance eldienne.
+
+220
+00:14:19,250 --> 00:14:21,750
+Tous les résistants
+ont été déportés,
+
+221
+00:14:21,880 --> 00:14:24,810
+et leur famille
+ont souvent partagé leur sort.
+
+222
+00:14:24,960 --> 00:14:26,670
+Ce garçon et son frère
+
+223
+00:14:26,800 --> 00:14:29,990
+ont voulu devenir
+guerriers afin de protéger les leurs.
+
+224
+00:14:30,110 --> 00:14:34,580
+Maintenant que son aîné a été désigné
+comme successeur du bestial,
+
+225
+00:14:34,730 --> 00:14:38,080
+la famille Gleis
+est enfin en sécurité.
+
+226
+00:14:39,480 --> 00:14:42,490
+Pourquoi me raconter tout ça ?
+
+227
+00:14:43,500 --> 00:14:46,840
+Vous devez arrêter
+de charger le petit de vos commissions.
+
+228
+00:14:47,440 --> 00:14:49,460
+Des soupçons mal placés
+
+229
+00:14:49,590 --> 00:14:52,620
+réduiraient tous les efforts
+des Gleis à néant.
+
+230
+00:14:53,280 --> 00:14:55,920
+Quant à vous, si vous êtes remis,
+
+231
+00:14:56,050 --> 00:14:58,490
+vous devriez rentrer
+auprès des vôtres.
+
+232
+00:14:59,040 --> 00:15:01,430
+Une fois séparés à jamais,
+
+233
+00:15:01,620 --> 00:15:04,750
+il ne sera plus temps
+de regretter vos choix.
+
+234
+00:15:06,400 --> 00:15:08,760
+Des regrets, hein…
+
+235
+00:15:12,260 --> 00:15:15,390
+Vous semblez en avoir
+vis-à-vis de votre famille.
+
+236
+00:15:18,020 --> 00:15:20,640
+Pas une journée ne passe
+sans qu’ils me rongent.
+
+237
+00:15:21,020 --> 00:15:25,450
+Ce jour-là, mon fils
+a entraîné sa sœur hors de l’enceinte…
+
+238
+00:15:25,650 --> 00:15:30,650
+J’étais trop strict avec lui.
+J’exigeais qu’il devienne médecin aussi…
+
+239
+00:15:33,660 --> 00:15:37,270
+C’est ma faute… Tout est ma faute…
+
+240
+00:15:42,000 --> 00:15:43,290
+M. Jäger !
+
+241
+00:15:43,620 --> 00:15:45,960
+Vous ne devez pas
+sortir sans autorisation !
+
+242
+00:15:46,110 --> 00:15:49,130
+Je suis navrée,
+je l’ai quitté des yeux un instant et…
+
+243
+00:15:50,380 --> 00:15:51,930
+Allez, venez, M. Jäger.
+
+244
+00:15:52,520 --> 00:15:54,440
+Calmez-vous, ça va aller.
+
+245
+00:16:01,940 --> 00:16:06,940
+LE CLAN TEYBER
+
+246
+00:16:01,940 --> 00:16:06,940
+Famille de la noblesse qui se fit le porte-étendard de la révolte
+contre Eldia lors de la Grande guerre des titans, il y a 100 ans.
+On considère que c’est son alliance avec Helos, le héros mahr,
+qui permit de déjouer la puissance de l’empire eldien
+et de mettre ainsi un terme à la guerre.
+Malgré son rang nobiliaire peu du goût d’un régime militariste
+comme celui de Mahr, le clan Teyber a su tirer parti de la puissance
+du titan « marteau d’armes », transmis de génération en génération
+entre ses membres, afin de conserver un rôle de premier plan
+dans la direction du pays et acquérir une influence immense
+sur le plan international.
+L’actuel chef de famille est Willy Teyber.
+
+248
+00:16:14,760 --> 00:16:16,600
+Je l’ai vu dans le journal, lui !
+
+249
+00:16:16,950 --> 00:16:18,560
+Pas de bavardages.
+
+250
+00:16:18,880 --> 00:16:21,580
+On assure le service,
+comme à l’entraînement.
+
+251
+00:16:21,790 --> 00:16:24,580
+Là-bas, des verres vides.
+On dessert !
+
+252
+00:16:33,630 --> 00:16:35,320
+– Une autre !
+– Tiens !
+
+253
+00:16:38,220 --> 00:16:39,240
+Allons bon !
+
+254
+00:16:39,440 --> 00:16:42,040
+Ce sont des sangs impurs
+qui font le service ?
+
+255
+00:16:42,230 --> 00:16:45,210
+Ah, voilà d’où vient
+la drôle d’odeur des plats !
+
+256
+00:16:51,150 --> 00:16:52,540
+Toutes mes excuses !
+
+257
+00:16:53,400 --> 00:16:54,640
+Silence, pas un mot.
+
+258
+00:16:55,200 --> 00:16:57,450
+Mais vos magnifiques vêtements…
+
+259
+00:16:57,620 --> 00:16:59,950
+Madame, quelque chose ne va pas ?
+
+260
+00:17:00,870 --> 00:17:02,680
+Oui, mon affligeante maladresse !
+
+261
+00:17:02,840 --> 00:17:06,960
+Je me faisais aider après avoir
+renversé mon vin sur mon kimono.
+
+262
+00:17:07,240 --> 00:17:08,380
+Merci, jeune homme.
+
+263
+00:17:08,530 --> 00:17:11,710
+Quel fâcheux incident.
+Par ici, je vous en prie.
+
+264
+00:17:12,690 --> 00:17:13,720
+Pourquoi ?
+
+265
+00:17:14,380 --> 00:17:17,400
+Qui sait quel châtiment
+ils t’auraient infligé ?
+
+266
+00:17:18,900 --> 00:17:20,000
+Tout va bien ?
+
+267
+00:17:20,330 --> 00:17:21,220
+Oui…
+
+268
+00:17:21,650 --> 00:17:23,130
+Cette dame m’a sauvé la mise,
+
+269
+00:17:23,810 --> 00:17:26,020
+même en sachant
+que j’étais Eldien…
+
+270
+00:17:27,120 --> 00:17:28,150
+Cette femme…
+
+271
+00:17:28,980 --> 00:17:31,810
+Je pense qu’elle vient
+de Heazul, en Asie !
+
+272
+00:17:36,320 --> 00:17:37,370
+Voilà Willy !
+
+273
+00:17:39,070 --> 00:17:40,080
+Willy !
+
+274
+00:17:40,830 --> 00:17:42,910
+Le descendant du grand sauveur !
+
+275
+00:17:43,080 --> 00:17:45,870
+M. Ogweno !
+Quel plaisir de vous revoir !
+
+276
+00:17:46,360 --> 00:17:49,330
+Nambia !
+Dire qu’on s’est quittés tout bambins !
+
+277
+00:17:49,490 --> 00:17:52,670
+Oui, j’avais le chic
+pour te faire pleurer !
+
+278
+00:17:52,820 --> 00:17:54,790
+Tu te souviens de ça, Willy ?
+
+279
+00:17:55,010 --> 00:17:58,010
+Mais oui,
+la cicatrice de ta chute d’un arbre !
+
+280
+00:18:03,680 --> 00:18:05,980
+Mesdames et messieurs !
+
+281
+00:18:06,140 --> 00:18:09,020
+Merci d’avoir répondu présents
+ce soir !
+
+282
+00:18:09,600 --> 00:18:12,690
+Il y a peu encore,
+notre quête de ressources
+
+283
+00:18:12,820 --> 00:18:15,720
+nous poussait
+à nous livrer une guerre féroce.
+
+284
+00:18:16,030 --> 00:18:19,660
+Mais les ennemis d’hier
+sont les ennemis d’aujourd’hui !
+
+285
+00:18:20,560 --> 00:18:21,910
+Oh, pardon…
+
+286
+00:18:22,120 --> 00:18:24,410
+Les amis d’aujourd’hui, bien sûr !
+
+287
+00:18:24,850 --> 00:18:28,410
+Évacuons rancœurs
+et excès d’alcool aux latrines,
+
+288
+00:18:28,920 --> 00:18:32,290
+et levons nos verres
+à un nouveau départ, bien purgé !
+
+289
+00:18:32,670 --> 00:18:35,550
+À une paix longue et prospère !
+
+290
+00:18:38,170 --> 00:18:39,700
+Merci, M. l’ambassadeur !
+
+291
+00:18:39,920 --> 00:18:43,290
+Votre humour sophistiqué
+est d’un rare raffinement !
+
+292
+00:18:43,760 --> 00:18:47,860
+Mais la barrière de la langue
+le rend trop subtil pour nos hôtes.
+
+293
+00:18:48,000 --> 00:18:49,810
+À moi de prendre le relais.
+
+294
+00:18:49,960 --> 00:18:51,300
+Un discours, Willy !
+
+295
+00:18:51,440 --> 00:18:53,220
+Le descendant du sauveur !
+
+296
+00:18:57,070 --> 00:19:02,120
+Vous êtes tous conviés demain
+au camp de Revelio.
+
+297
+00:19:02,910 --> 00:19:06,450
+Là-bas vivent les descendants
+des bourreaux de jadis,
+
+298
+00:19:07,370 --> 00:19:09,950
+le peuple dont je partage le sang,
+
+299
+00:19:10,290 --> 00:19:13,380
+les démons eldiens
+dont le monde a tant souffert.
+
+300
+00:19:14,040 --> 00:19:17,260
+Le peuple mahr,
+1re victime de la tyrannie eldienne,
+
+301
+00:19:17,420 --> 00:19:20,330
+s’est à son tour servi des démons
+pour ses conquêtes,
+
+302
+00:19:20,470 --> 00:19:22,340
+répétant la tragédie.
+
+303
+00:19:23,060 --> 00:19:26,850
+Je comprends fort bien
+l’envie d’éradiquer la lignée eldienne.
+
+304
+00:19:27,520 --> 00:19:30,880
+J’ai longuement réfléchi
+à cet insoluble problème,
+
+305
+00:19:31,020 --> 00:19:33,520
+et je suis parvenu à une conclusion.
+
+306
+00:19:34,150 --> 00:19:35,860
+Et c’est cette conclusion
+
+307
+00:19:36,020 --> 00:19:38,780
+que je vous dévoilerai demain,
+dans une pièce
+
+308
+00:19:38,910 --> 00:19:40,610
+qui sera ma 1re mise en scène.
+
+309
+00:19:41,400 --> 00:19:45,120
+Aux grands dramaturges
+et aux témoins de l’Histoire à venir !
+
+310
+00:19:45,280 --> 00:19:48,120
+Aux dramaturges,
+aux témoins de l’Histoire !
+
+311
+00:20:02,810 --> 00:20:03,890
+Qu’est-ce que c’est ?
+
+312
+00:20:16,440 --> 00:20:18,020
+C’est quoi, tout ça ?
+
+313
+00:20:18,160 --> 00:20:20,360
+Gaby, tu débarques enfin !
+
+314
+00:20:20,740 --> 00:20:22,010
+Il se passe quoi ?
+
+315
+00:20:22,150 --> 00:20:23,360
+La grande fête !
+
+316
+00:20:23,570 --> 00:20:28,280
+Il y a des gens du monde entier
+plein les rues et des échoppes partout !
+
+317
+00:20:28,450 --> 00:20:29,120
+Goûte ça !
+
+318
+00:20:30,850 --> 00:20:32,560
+C’est comme ça, une fête ?
+
+319
+00:20:32,710 --> 00:20:33,700
+Profitons-en !
+
+320
+00:21:01,480 --> 00:21:03,700
+J’ai mal au bide…
+
+321
+00:21:04,110 --> 00:21:06,420
+Normal, vu comme tu t’es goinfrée.
+
+322
+00:21:07,490 --> 00:21:10,420
+Ce serait bien
+que ce soit la fête tous les jours.
+
+323
+00:21:12,120 --> 00:21:13,200
+Pour sûr.
+
+324
+00:21:13,430 --> 00:21:18,210
+J’ai l’impression qu’on vit
+plein de choses nouvelles, ces jours-ci.
+
+325
+00:21:18,600 --> 00:21:19,600
+Pour sûr.
+
+326
+00:21:20,380 --> 00:21:24,470
+Quelque chose me dit
+qu’un grand changement va arriver !
+
+327
+00:21:25,640 --> 00:21:26,610
+Oui,
+
+328
+00:21:27,640 --> 00:21:28,580
+pour sûr…
+
+329
+00:22:18,980 --> 00:22:22,520
+Supervision : Justine Cocquyt
+Repérage : Jonathan Leroy
+Publication : Jelizaveta Stolarova
+
+330
+00:22:22,520 --> 00:22:29,990
+Traduction : Ninon Masella
+Relecture : Adam Plaza
+WAKANIM
+
+331
+00:22:34,660 --> 00:22:36,440
+Vous vous êtes bien amusés ?
+
+332
+00:22:36,580 --> 00:22:38,540
+Bah, où est Falco ?
+
+333
+00:22:39,580 --> 00:22:42,500
+Il a filé en disant
+qu’il avait vu quelqu’un.
+
+334
+00:22:42,710 --> 00:22:45,260
+Quoi ?
+Il va arriver à l’heure, j’espère.
+
+335
+00:22:45,420 --> 00:22:48,510
+Laisse-le,
+fais pas ton rabat-joie aujourd’hui !
+
+336
+00:22:48,890 --> 00:22:50,430
+Quelle foule…
+
+337
+00:22:50,640 --> 00:22:52,870
+Bah tiens, le revoilà.
+
+338
+00:22:53,260 --> 00:22:54,420
+Vice-capitaine Braun !
+
+339
+00:22:55,100 --> 00:22:57,110
+Où est-ce que t’étais passé ?
+
+340
+00:22:57,850 --> 00:22:59,270
+Vous avez 2 minutes ?
+
+341
+00:22:59,610 --> 00:23:00,740
+Maintenant ?
+
+342
+00:23:00,940 --> 00:23:04,650
+Vas-y, le lever de rideau
+n’est pas pour tout de suite.
+
+343
+00:23:05,610 --> 00:23:06,680
+Par ici !
+
+344
+00:23:07,150 --> 00:23:08,650
+Mais où tu m’emmènes ?
+
+345
+00:23:09,290 --> 00:23:10,820
+Vous verrez bien !
+
+346
+00:23:15,620 --> 00:23:16,660
+On y est !
+
+347
+00:23:17,850 --> 00:23:18,700
+D’accord.
+
+348
+00:23:22,830 --> 00:23:23,980
+Le voilà !
+
+349
+00:23:25,800 --> 00:23:26,800
+Salut.
+
+350
+00:23:27,000 --> 00:23:29,210
+Ça fait déjà 4 ans, hein, Reiner ?
+
+351
+00:23:35,580 --> 00:23:36,540
+Eren !
+
+352
+00:23:40,350 --> 00:23:43,660
+Reiner fait face à Eren
+au fond d’un sombre sous-sol.
+
+353
+00:23:44,190 --> 00:23:47,410
+Alors que le discours de Willy
+désarçonne son auditoire,
+
+354
+00:23:47,580 --> 00:23:49,030
+Eren déclare soudain :
+
+355
+00:23:49,480 --> 00:23:51,990
+« On est pareils, toi et moi ».
+
+356
+00:23:52,570 --> 00:23:54,990
+Prochain épisode :
+Déclaration de guerre.
+
+357
+00:23:52,990 --> 00:23:54,990
+DÉCLARATION DE GUERRE
